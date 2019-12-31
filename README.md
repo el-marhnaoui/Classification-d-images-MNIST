@@ -3,7 +3,7 @@
 Classification d'images MNIST avec CNN et Keras
 
 J'ai construit un réseau de neurones à convolution pour classer les chiffres manuscrits tout en se basant sur la dataset MINIST.
-Les differents étapes établites pour éffectué ce projet sont:
+Les differents étapes établites pour éffectuer ce projet sont:
 
  1. Préparation des données
     1.1 Charger les données du train
